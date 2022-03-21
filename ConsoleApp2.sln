@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "ConsoleApp2\Operatorler.csproj", "{427B7A48-9547-41EE-9BB5-614299E9371B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427B7A48-9547-41EE-9BB5-614299E9371B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427B7A48-9547-41EE-9BB5-614299E9371B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427B7A48-9547-41EE-9BB5-614299E9371B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427B7A48-9547-41EE-9BB5-614299E9371B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6A4FB4-92B6-42EE-B068-8BE63CBE7C61}
+	EndGlobalSection
+EndGlobal
